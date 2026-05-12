@@ -1,4 +1,4 @@
-# Contact Keeper
+# Contact Keeper testing with Playwright
 
 > Full stack MERN contact manager with React hooks, context & JWT authentication. Part of my [React course on Udemy.](https://www.udemy.com/share/101XdqAkUadVtQTH4=/)
 
